@@ -37,13 +37,12 @@ var vendorScripts = [
   'app/vendors/moment/min/moment-with-locales.min.js',
   'app/vendors/angular/angular.js',
   'app/vendors/angular-route/angular-route.js',
-  'app/vendors/angular-loading-bar/src/loading-bar.js',
+  'app/vendors/ngstorage/ngStorage.js',
   'app/vendors/bootstrap/dist/js/bootstrap.min.js'
 ];
 
 var vendorStyles = [
-  'app/vendors/bootstrap/dist/css/bootstrap.min.css',
-  'app/vendors/angular-loading-bar/src/loading-bar.css'
+  'app/vendors/bootstrap/dist/css/bootstrap.min.css'
 ];
 
 var vendorFonts = [
